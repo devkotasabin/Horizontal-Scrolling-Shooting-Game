@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1302614990 source:c:\users\user\desktop\contraforce\inputs.cpp
+	"contraheader.h"
+
+1302613984 c:\users\user\desktop\contraforce\contraheader.h
+	<allegro.h>
+	"mappyal.h"
+	<ctime>
+	<cstdlib>
+
+1011180760 c:\users\user\desktop\contraforce\mappyal.h
+
+1302592752 source:c:\users\user\desktop\contraforce\loader.cpp
+	"contraheader.h"
+
+1296671067 source:c:\users\user\desktop\contraforce\mappyal.c
+	<stdio.h>
+	<string.h>
+	<allegro.h>
+
+1302615199 source:c:\users\user\desktop\contraforce\update.cpp
+	"contraheader.h"
+
+1302613690 source:c:\users\user\desktop\contraforce\contra.cpp
+	"contraheader.h"
+
+1302806746 source:c:\users\user\desktop\contraforce trial\inputs.cpp
+	"contraheader.h"
+
+1302838483 c:\users\user\desktop\contraforce trial\contraheader.h
+	<allegro.h>
+	"mappyal.h"
+	<ctime>
+	<cstdlib>
+
+1011180760 c:\users\user\desktop\contraforce trial\mappyal.h
+
+1302804304 source:c:\users\user\desktop\contraforce trial\loader.cpp
+	"contraheader.h"
+
+1296671067 source:c:\users\user\desktop\contraforce trial\mappyal.c
+	<stdio.h>
+	<string.h>
+	<allegro.h>
+
+1302805590 source:c:\users\user\desktop\contraforce trial\update.cpp
+	"contraheader.h"
+
+1302838810 source:c:\users\user\desktop\contraforce trial\contra.cpp
+	"contraheader.h"
+
+1302868711 source:c:\users\user\desktop\contraforce final\inputs.cpp
+	"contraheader.h"
+
+1302951845 c:\users\user\desktop\contraforce final\contraheader.h
+	<allegro.h>
+	"mappyal.h"
+	<ctime>
+	<cstdlib>
+
+1011180760 c:\users\user\desktop\contraforce final\mappyal.h
+
+1302950840 source:c:\users\user\desktop\contraforce final\loader.cpp
+	"contraheader.h"
+
+1296671067 source:c:\users\user\desktop\contraforce final\mappyal.c
+	<stdio.h>
+	<string.h>
+	<allegro.h>
+
+1302951186 source:c:\users\user\desktop\contraforce final\update.cpp
+	"contraheader.h"
+
+1302883082 source:c:\users\user\desktop\contraforce final\contra.cpp
+	"contraheader.h"
+

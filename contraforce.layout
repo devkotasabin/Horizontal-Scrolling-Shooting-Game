@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="contra.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="6906" topLine="235" />
+	</File>
+	<File name="contraheader.h" open="1" top="0" tabpos="2">
+		<Cursor position="496" topLine="26" />
+	</File>
+	<File name="inputs.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="253" topLine="3" />
+	</File>
+	<File name="loader.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="3520" topLine="91" />
+	</File>
+	<File name="update.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="14930" topLine="401" />
+	</File>
+</CodeBlocks_layout_file>
